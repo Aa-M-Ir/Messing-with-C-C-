@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 void binary(int ch){
-//	printf("  %d  ", ch);
+//	//printf("  %d  ", ch);
 	int res[100];
 	int i=-1;
 	while(ch){
